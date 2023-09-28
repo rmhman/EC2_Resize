@@ -2,7 +2,7 @@
 
 ## Getting Started
 Clone this GIT repo, and make sure you have your AWS creds set up with ```aws configure```.
-> **Note:** This script has already been downloaded from GIT, and you can run it from ```linuxtools01a``` as ```root``` at ```/home/scripts/aws/ec2_resize```
+
 
 ## Update the Resize File
 Inside the ```ec2_resize``` directory you will find a file named ```resize``` 
